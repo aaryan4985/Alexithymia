@@ -1,4 +1,4 @@
-# Alexi Vale - Light Novel RAG System 📚
+# Alexithymia - Light Novel RAG System 📚
 
 Alexi Vale is a Retrieval-Augmented Generation (RAG) system built with **LlamaIndex** and **Groq** that acts as a highly analytical, precise, and emotionally restrained literary analyst.
 
