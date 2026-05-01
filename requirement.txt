@@ -1,0 +1,9 @@
+langchain 
+langchain-core
+langchain-community
+pymupdf
+pypdf
+beautifulsoup4 
+selenium
+sentence-transformers
+cloudscraper

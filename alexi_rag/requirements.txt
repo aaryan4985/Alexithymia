@@ -1,0 +1,6 @@
+llama-index
+llama-index-vector-stores-chroma
+llama-index-embeddings-huggingface
+llama-index-llms-groq
+chromadb
+python-dotenv
